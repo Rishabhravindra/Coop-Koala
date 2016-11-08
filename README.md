@@ -10,6 +10,7 @@ Shows the timeline of a daily life of a co-op/intern. Current co-ops can enter t
 ![CoopKoala Landing](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/378/220/datas/gallery.jpg)
 
 ![CoopKoala Intro] (https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/378/221/datas/gallery.jpg)
+![Coop Koala Timeline] (https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/378/223/datas/gallery.jpg)
 ![CoopKoala Timeline] (https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/378/224/datas/gallery.jpg)
 ## How I built it
 Built using HTML, CSS and Javascript. Frameworks were used to rapidly prototype the development process. 
