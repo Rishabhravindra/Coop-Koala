@@ -14,11 +14,12 @@ Shows the timeline of a daily life of a co-op/intern. Current co-ops can enter t
 ![CoopKoala Timeline] (https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/378/224/datas/gallery.jpg)
 ## How I built it
 Built using HTML, CSS and Javascript. Frameworks were used to rapidly prototype the development process. 
-List of frameworks used:
+List of frameworks used in no particular order:
 - [getmdl.io] (https://getmdl.io/)
 - [animate.css] (https://daneden.github.io/animate.css/)
 - [jQuery] (https://jquery.com/)
-
+- [Bootstrap] (http://getbootstrap.com/)
+- [SmoothScroll JS] (https://github.com/cferdinandi/smooth-scroll)
 ## Challenges I ran into and what I learned
 We had to finish our prototype in 24 hours and that time crunch made for a good challenge. After considering many options, I had to use different frameworksa s writing everything from scratch would have been a long process. Our focus was to complete the project than to write good quality code. While we were able to finish the website, there is room for improvement as far as structure and semantics of the webpage is concerned. 
 
